@@ -4,5 +4,5 @@ find meteorites closing to my location
 This project requires python 3 and the Request package.
 First , install pipenv, then:
 ```pipenv install
-pipenv run "python find-meteors.py"
+pipenv run "python meteors/find-meteors.py"
 ```
